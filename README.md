@@ -1,1 +1,1 @@
-# Parking_management
+# Parking management using YOLOv5.
